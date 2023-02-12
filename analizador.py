@@ -1,7 +1,7 @@
-#from scipy.interpolate import lagrange
+from scipy.interpolate import lagrange
 from tkinter import *
 import numpy as np
-#from matplotlib import pyplot as plt
+from matplotlib import pyplot as plt
 import math as m
 import shutil, os
 import subprocess
