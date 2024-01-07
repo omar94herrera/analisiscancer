@@ -1,4 +1,4 @@
 # analisiscancer
-análisis de células cancerígenas expuestas a distintos compuestos, se analiza movimiento y morfología
+Análisis de células cancerígenas expuestas a distintos compuestos, se analiza movimiento y morfología
 
 el archivo .py abre los archivos .m para obtener los datos de las células y analizarlas, esto lo hace por consola, por lo que en la casilla de ingresar segundos para ejecutar MATLAB se debe poner el tiempo que su computador se demora haciendo eso, este tiempo depende del computador que usted tenga, por lo que si es primera vez que corre el programa se recomienda poner un tiempo alto de unos 2 o 3 minutos, si su computador demora más que el tiempo que usted puso tirará error por no encontrar los archivos con los datos de las células, los videos analizados deben ser de formato TIF para poder analizarse, una vez que se hizo el análisis de células correctamente se creará una carpeta con el nombre del video analizado de las células con todas las imágenes y gráficos necesarios para hacer un informe y también habrá un archivo .tex, el cual está listo para compilar y tener el informe.
